@@ -18,10 +18,10 @@ This project demonstrates how computer vision can be applied to automate waste s
 ---
 ## 📁 Project Structure
 
-├── inference_app.py # Run inference (GUI-based)
-├── evaluate_model.py # Model evaluation (confusion matrix & metrics)
-├── requirements.txt
-└── README.md
+- inference_app.py # Run inference (GUI-based)
+-  evaluate_model.py # Model evaluation (confusion matrix & metrics)
+- requirements.txt
+- README.md
 
 ---
 ## ⚙️ Installation
