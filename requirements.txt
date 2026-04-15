@@ -1,0 +1,13 @@
+inference-sdk
+opencv-python
+
+How to install?
+open your command prompt, and copy this code :
+
+for inference-sdk:
+from inference_sdk import InferenceHTTPClient
+
+for opencv-python:
+import cv2
+
+#notes : you need to connect to internet
