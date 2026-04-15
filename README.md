@@ -2,10 +2,13 @@
 
 This project presents a complete computer vision pipeline for classifying waste images into 15 categories using a ResNet34-based model.  
 It covers dataset preparation, model training, evaluation, and deployment through a simple Python-based application.
-Waste classification plays a crucial role in improving recycling efficiency and reducing environmental impact.  
-This project demonstrates how computer vision can be applied to automate waste sorting in real-world scenarios.
 
 ---
+## 🚀 Project Highlights
+
+- End-to-end ML pipeline (data → training → evaluation → deployment)
+- Custom evaluation script (not tool-dependent)
+- Real-world use case simulation (waste sorting system)
 
 ## 🚀 Key Features
 
@@ -98,12 +101,22 @@ export ROBOFLOW_API_KEY=your_api_key_here
 - Develop web-based interface (Streamlit / Flask)
 
 ---
+---
 # 👤 Author
-### Septian Dwitomo
+## Septian Dwitomo
 Freelance Data Annotator | Computer Vision Enthusiast
 
 Email : septiandwitomo39@gmail.com
 phone : +62 895608623500
+
+---
+## 🧠 Skills Demonstrated
+
+- Computer Vision (Image Classification)
+- Data Annotation & Dataset Structuring
+- Model Evaluation (Confusion Matrix, F1 Score)
+- Python Development
+- API Integration (Roboflow)
 
 ---
 ### ⭐ Notes
