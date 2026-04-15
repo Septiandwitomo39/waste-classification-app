@@ -2,6 +2,8 @@
 
 This project presents a complete computer vision pipeline for classifying waste images into 15 categories using a ResNet34-based model.  
 It covers dataset preparation, model training, evaluation, and deployment through a simple Python-based application.
+Waste classification plays a crucial role in improving recycling efficiency and reducing environmental impact.  
+This project demonstrates how computer vision can be applied to automate waste sorting in real-world scenarios.
 
 ---
 
