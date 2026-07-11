@@ -1,4 +1,4 @@
-# 🧠 Waste Image Classification System (15 Classes)
+# 🧠 Waste Image Classification System (15 Classes) w/ ResNet34 & Roboflow cloud
 
 This project presents a complete computer vision pipeline for classifying waste images into 15 categories using a ResNet34-based model.  
 It covers dataset preparation, model training, evaluation, and deployment through a simple Python-based application.
